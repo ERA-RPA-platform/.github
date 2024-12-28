@@ -1,5 +1,3 @@
----
-
 # **ERA: The Dawn of a New Automation Era 🌅**  
 
 Welcome to **ERA**, a bold new project that aims to transform the future of automation. As a newborn platform, ERA is just beginning its journey, but its vision is crystal clear: to empower innovation, simplify workflows, and redefine how businesses interact with automation.  
